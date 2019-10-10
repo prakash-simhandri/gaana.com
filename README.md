@@ -11,8 +11,16 @@ sudo apt-get update
 sudo apt-get install python3-pip
 pip3 install beautifulsoup4
 ```
+# The Requirements
+
 Requests is an Apache2 Licensed HTTP library, written in Python. Requests will allow you to send HTTP/1.1 requests using Python. You can install requests library using following code in your terminal in Linux.
 ```
 pip3 install requests
 ```
+## Tkinter
 
+Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. You can install Tkinter library using following code in your terminal in Linux.
+
+## ImageTk
+
+ImageTk Module. The ImageTk module contains support to create and modify Tkinter BitmapImage and PhotoImage objects from PIL images. ... A Tkinter-compatible photo image.
