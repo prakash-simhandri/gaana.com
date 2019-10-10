@@ -19,8 +19,21 @@ pip3 install requests
 ```
 ## Tkinter
 
-Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. You can install Tkinter library using following code in your terminal in Linux.
+Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. so we have to install Tkinter library using following code in your terminal in Linux.
+
+```
+sudo apt-get install python3-tk
+```
 
 ## ImageTk
 
-ImageTk Module. The ImageTk module contains support to create and modify Tkinter BitmapImage and PhotoImage objects from PIL images. ... A Tkinter-compatible photo image.
+ImageTk Module. The ImageTk module contains support to create and modify Tkinter BitmapImage and PhotoImage objects from PIL images. ... A Tkinter-compatible photo image. so we have to install imagetk following code in your terminal in Linux.
+
+```
+sudo apt-get install python-imaging python-pil.imagetk
+
+sudo apt-get install python3-pil python3-pil.imagetk
+```
+# How to run ?
+
+If you want to run the code in Linux, open your terminal and type- python3 gaana.py
