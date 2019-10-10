@@ -4,6 +4,15 @@ In this project, I scraped (https://gaana.com/) website songs List,here differen
 
 ## BeautifulSoup
 
-Beautiful Soup is a Python library for pulling data out of <b>HTML</b> and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
+Beautiful Soup is a Python library for pulling data out of <b>HTML</b> and <b>XML</b> files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
 
+```
+sudo apt-get update
+sudo apt-get install python3-pip
+pip3 install beautifulsoup4
+```
+Requests is an Apache2 Licensed HTTP library, written in Python. Requests will allow you to send HTTP/1.1 requests using Python. You can install requests library using following code in your terminal in Linux.
+```
+pip3 install requests
+```
 
